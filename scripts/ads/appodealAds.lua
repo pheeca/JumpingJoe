@@ -13,7 +13,7 @@ local topInset, leftInset, bottomInset, rightInset = display.getSafeAreaInsets()
 --local fakeAds        = require "scripts.ads.fake" 
 
 -- Be sure to set next variable to false you release your app.
-local testMode       = true
+local testMode       = false
 
 -- This (option) controls limits the type of ads you want Appodeal to serve
 local supportedAdTypes = { "interstitial" }

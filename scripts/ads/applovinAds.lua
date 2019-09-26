@@ -20,7 +20,7 @@ local verboseLogging = false
 
 -- Provide IDs for Android and/or iOS depending on if you are using them or not.
 -- TIP: Module is smart enought to use the right one.
-local androidID      = "ANDROID_ID_HERE"
+local androidID      = "pheeca.studio.jumpingjoe"
 local iosID          = "IOS_ID_HERE"
 
 -- The module has a slight initialization delay to make it play nicer

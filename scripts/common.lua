@@ -47,12 +47,12 @@ common.extras.leaderboard_enabled 					= false
 --
 -- Ads
 --
-common.extras.ads_enabled 								= true --false 
-common.extras.ads_show_interstitials				= true
+common.extras.ads_enabled 								= false --false 
+common.extras.ads_show_interstitials				= false
 -- 
 common.extras.ads_provider 							= "appodeal" -- applovin or appodeal
 common.extras.ads_interstitial_frequency			= 5 
-common.extras.ads_request_gdpr_permission			= true
+common.extras.ads_request_gdpr_permission			= false
 
 --
 -- Facebook
